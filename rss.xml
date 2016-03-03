@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sfence]]></title>
+        <description><![CDATA[sfence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 03:00:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Simpson's Fence has been proudly serving Southwestern Ontario for over 50 years, with locations in London, Chatham and Tecumseh. We are equiped to handle residential, commercial, industrial or institutional fence projects of any size or scope. We offer a complete lineup of fence products for installed projects or materials-only packages for the contractor or do-it-yourselfer including:  Chain Link Ornamental Iron Vinyl (PVC)</p>]]></description>
+            <link>undefinedsimpsons-fence-has-been-proudly-serving-southwestern-ontari/index.html</link>
+            <guid isPermaLink="false">ebef68cd-3450-4643-a916-eaea0b9d5d4f</guid>
+            <pubDate>Thu, 03 Mar 2016 03:00:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
